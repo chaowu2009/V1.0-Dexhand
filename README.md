@@ -89,7 +89,7 @@ Reduces powered range of motion to about half and the loss of a continuous rotat
 
 7. M2 brass threaded inserts M2 * 4mm long * 3.5mm
   Note that the type required has a plain section between the knurled ends to allow attachment of the tendon in the fingertip.
-  Amazon US: https://amzn.to/3yYl1lY
+  Amazon US: https://amzn.to/3yYl1lY (not in stock). search others using : uxcell Knurled Insert Nuts, 100pcs M2 x 4mm L x 3.5mm
 
 8. Kite or fishing line for finger tendons - Sufix 832 is the best I know of for longevity, the 80lbs breaking strength is stiff enough to thread easily and most readily available on 
    Amazon US: https://amzn.to/3DgjNoF
