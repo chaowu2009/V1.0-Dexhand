@@ -79,41 +79,41 @@ Feetech SCS15 - https://feetechrc.com/6v-15kg-digital-robot-steering-gear.html o
 
 Reduces powered range of motion to about half and the loss of a continuous rotation option.
 
-The rest of the components are relatively inexpensive:
+## The rest of the components are relatively inexpensive:
 
-2mm diameter steel pins - alternatively cut lengths from a wire coat hanger or in Europe order direct from https://www.visseriefixations.fr/goupilles/goupille-cylindrique-rectifiee-m6.html
+4. 2mm diameter steel pins - alternatively cut lengths from a wire coat hanger or in Europe order direct from https://www.visseriefixations.fr/goupilles/goupille-cylindrique-rectifiee-m6.html
 
-Otherwise kits are available on Amazon US: https://amzn.to/3VYrnfh
+5. Otherwise kits are available on Amazon US: https://amzn.to/3VYrnfh
 
-M2 screw and washer kits, or also in Europe from https://www.visseriefixations.fr
-Amazon US: https://amzn.to/3sf4NkE
+6. M2 screw and washer kits, or also in Europe from https://www.visseriefixations.fr
+6. Amazon US: https://amzn.to/3sf4NkE
 
 M2 brass threaded inserts M2 * 4mm long * 3.5mm
 Note that the type required has a plain section between the knurled ends to allow attachment of the tendon in the fingertip.
-Amazon US: https://amzn.to/3yYl1lY
+7. Amazon US: https://amzn.to/3yYl1lY
 
 Kite or fishing line for finger tendons - Sufix 832 is the best I know of for longevity, the 80lbs breaking strength is stiff enough to thread easily and most readily available on 
-Amazon US: https://amzn.to/3DgjNoF
+8. Amazon US: https://amzn.to/3DgjNoF
 
 Slightly thicker 0.8mm kiteline for the finger ligaments and wrist tendons.
 
-Amazon US: https://amzn.to/3GMKQJL
+9. Amazon US: https://amzn.to/3GMKQJL
 
 Ball Bearings 6*10*3 - Need 50 for a hand, packs of 10 available which are enough for the sample finger.
-Amazon US: https://amzn.to/3Dj7cBn
+10. Amazon US: https://amzn.to/3Dj7cBn
 
 Ball Bearings 2*6*3 or 2*6*2.5 - Need 6 for the wrist
-Amazon US: https://amzn.to/3yYlTHg
+11. Amazon US: https://amzn.to/3yYlTHg
 
 Ball Bearings 15*21*4 - Need 4 for the wrist
-Amazon US: https://amzn.to/3TsMSTO
+12. Amazon US: https://amzn.to/3TsMSTO
 
 Ball Bearings 3*8*4 - Need 6 for the wrist
-Amazon US: https://amzn.to/3VyE28O
+13. Amazon US: https://amzn.to/3VyE28O
 
 M3 * 70mm caphead bolt (grade 12.9 ideally)
 Need 2 (1 is cut down to 60mm)
-Amazon US: https://amzn.to/3HM0Rjx
+14. Amazon US: https://amzn.to/3HM0Rjx
 McMaster US: https://www.mcmaster.com/product/91290A297
 
 Follow @therobotstudio
