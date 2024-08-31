@@ -47,13 +47,13 @@ Though my favourite diamond file is actually intended for maintaining whetstones
 
 - Amazon US: https://amzn.to/3eN3bvo
 
-Additional components required are listed below.
+# Additional components required are listed below.
 
 Please consider buying via the Amazon links where available to help fund the robot development.
 
 The biggest cost item are the 16 slim micro-servos that drive the fingers and thumb.
 
-The discount code ROBOTSERVOS will take off 10% from the official Emax webstore: https://emaxmodel.com
+1. The discount code ROBOTSERVOS will take off 10% from the official Emax webstore: https://emaxmodel.com
 
 There are four variants at this size with plastic or metal gears and using either digital or analog control technology.
 
@@ -62,7 +62,7 @@ ES3302 (approx $9.2)
 ES3351  (approx $8.5)
 ES3352 (approx $12)
 
-2 standard micro servos are needed for wrist flexion and extension.
+2. Two standard micro servos are needed for wrist flexion and extension.
 
 Feetech SCS2332 - https://feetechrc.com/product-name_55300.html are recommended.
 
@@ -74,7 +74,7 @@ If you prefer to use a standard PWM servo for simplicity they can be substituted
 
 The trade off is the reduction of the powered range of motion of the wrist to about half.
 
-1 standard servo needed for axial wrist rotation (optional)
+3. 1 standard servo needed for axial wrist rotation (optional)
 Feetech SCS15 - https://feetechrc.com/6v-15kg-digital-robot-steering-gear.html or any servo that fits inside the envelope 40*20*40.5mm.
 
 Reduces powered range of motion to about half and the loss of a continuous rotation option.
