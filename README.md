@@ -29,7 +29,7 @@ https://cad.onshape.com/documents/16c809d35214bd31c5b0324f/w/56b2fb82f7bdce50577
 The forearm and hand can operate as a stand-alone unit allowing unlimited axial rotation for rotational tasks like scrubbing.
 
 
-Some notes on printing:
+## Some notes on printing:
 
 The parts can be printed on any extrusion printer and the hand uses less than 300 USD of components.
 
@@ -51,33 +51,31 @@ Though my favourite diamond file is actually intended for maintaining whetstones
 
 Please consider buying via the Amazon links where available to help fund the robot development.
 
-The biggest cost item are the 16 slim micro-servos that drive the fingers and thumb.
-
-1. The discount code ROBOTSERVOS will take off 10% from the official Emax webstore: https://emaxmodel.com
-
-There are four variants at this size with plastic or metal gears and using either digital or analog control technology.
-
-ES3301 (approx $6.6)
-ES3302 (approx $9.2)
-ES3351  (approx $8.5)
-ES3352 (approx $12)
+1. The biggest cost item are the 16 slim micro-servos that drive the fingers and thumb. The discount code ROBOTSERVOS will take off 10% from the official Emax webstore: https://emaxmodel.com
+    
+    There are four variants at this size with plastic or metal gears and using either digital or analog control technology.
+    
+    i. ES3301 (approx $6.6)
+    ii. ES3302 (approx $9.2)
+    iii. ES3351  (approx $8.5)
+    iv. ES3352 (approx $12)
 
 2. Two standard micro servos are needed for wrist flexion and extension.
 
-Feetech SCS2332 - https://feetechrc.com/product-name_55300.html are recommended.
-
-These are serial bus driven servos over allowing a greater range of controlled rotation.
-
-They cost around 35 bucks each plus delivery.
-
-If you prefer to use a standard PWM servo for simplicity they can be substituted by any servo that fits inside the envelope 23.2*12.1*28.5mm.
-
-The trade off is the reduction of the powered range of motion of the wrist to about half.
+    Feetech SCS2332 - https://feetechrc.com/product-name_55300.html are recommended.
+    
+    These are serial bus driven servos over allowing a greater range of controlled rotation.
+    
+    They cost around 35 bucks each plus delivery.
+    
+    If you prefer to use a standard PWM servo for simplicity they can be substituted by any servo that fits inside the envelope 23.2*12.1*28.5mm.
+    
+    The trade off is the reduction of the powered range of motion of the wrist to about half.
 
 3. 1 standard servo needed for axial wrist rotation (optional)
-Feetech SCS15 - https://feetechrc.com/6v-15kg-digital-robot-steering-gear.html or any servo that fits inside the envelope 40*20*40.5mm.
+    Feetech SCS15 - https://feetechrc.com/6v-15kg-digital-robot-steering-gear.html or any servo that fits inside the envelope 40*20*40.5mm.
 
-Reduces powered range of motion to about half and the loss of a continuous rotation option.
+    Reduces powered range of motion to about half and the loss of a continuous rotation option.
 
 ## The rest of the components are relatively inexpensive:
 
