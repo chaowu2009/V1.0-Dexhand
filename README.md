@@ -113,6 +113,7 @@ Please consider buying via the Amazon links where available to help fund the rob
     McMaster US: https://www.mcmaster.com/product/91290A297
 
 15. For Arduino, purchase a dev kit. Amazon: https://www.amazon.com/dp/B0CR6K5WKK?ref=ppx_yo2ov_dt_b_fed_asin_title
+16. For XBee USB adapator, https://www.amazon.com/dp/B07V7GB5XZ?psc=1&ref=ppx_yo2ov_dt_b_product_details
 
 Follow @therobotstudio
 Get involved at patreon.com/therobotstudio
